@@ -1,4 +1,4 @@
-# CodePencil ✒️
+# CodeAlchemy✒️
 
 CodePencil is a basic Online Code Editor that lets you write and preview HTML, CSS, and JavaScript code in real-time.
 
